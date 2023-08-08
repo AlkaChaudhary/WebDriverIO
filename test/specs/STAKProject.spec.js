@@ -106,6 +106,6 @@ describe('Demo Tests', function () {
     await checkBox1.click()
     const buttonBetaling = $('//button[text()="Til betaling"]')
     await buttonBetaling.click()
-    browser.pause(5000)
+    browser.pause(6000)
   })
 })
