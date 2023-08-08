@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"button[aria-label=\"Accepter alle\"]\"}\n  (Session info: chrome=115.0.5790.170)",
+  "stacktrace": "Backtrace:\n\tGetHandleVerifier [0x00007FF77CA64A62+57106]\n\t(No symbol) [0x00007FF77C9DCF52]\n\t(No symbol) [0x00007FF77C8AE2CB]\n\t(No symbol) [0x00007FF77C8E786E]\n\t(No symbol) [0x00007FF77C8E795C]\n\t(No symbol) [0x00007FF77C920477]\n\t(No symbol) [0x00007FF77C9069FF]\n\t(No symbol) [0x00007FF77C91E522]\n\t(No symbol) [0x00007FF77C906793]\n\t(No symbol) [0x00007FF77C8DCE81]\n\t(No symbol) [0x00007FF77C8DE064]\n\tGetHandleVerifier [0x00007FF77CD14222+2873042]\n\tGetHandleVerifier [0x00007FF77CD66590+3209792]\n\tGetHandleVerifier [0x00007FF77CD5F3AF+3180639]\n\tGetHandleVerifier [0x00007FF77CAF5F25+652245]\n\t(No symbol) [0x00007FF77C9E8618]\n\t(No symbol) [0x00007FF77C9E47C4]\n\t(No symbol) [0x00007FF77C9E48BC]\n\t(No symbol) [0x00007FF77C9D4C33]\n\tBaseThreadInitThunk [0x00007FFAD4E726AD+29]\n\tRtlUserThreadStart [0x00007FFAD62AAA68+40]\n"
+}
