@@ -1,5 +1,0 @@
-{
-  "error": "no such element",
-  "message": "no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"Kurv\"}\n  (Session info: chrome=115.0.5790.170)",
-  "stacktrace": "Backtrace:\n\tGetHandleVerifier [0x00007FF708F74A62+57106]\n\t(No symbol) [0x00007FF708EECF52]\n\t(No symbol) [0x00007FF708DBE2CB]\n\t(No symbol) [0x00007FF708DF786E]\n\t(No symbol) [0x00007FF708DF795C]\n\t(No symbol) [0x00007FF708E30477]\n\t(No symbol) [0x00007FF708E169FF]\n\t(No symbol) [0x00007FF708E2E522]\n\t(No symbol) [0x00007FF708E16793]\n\t(No symbol) [0x00007FF708DECE81]\n\t(No symbol) [0x00007FF708DEE064]\n\tGetHandleVerifier [0x00007FF709224222+2873042]\n\tGetHandleVerifier [0x00007FF709276590+3209792]\n\tGetHandleVerifier [0x00007FF70926F3AF+3180639]\n\tGetHandleVerifier [0x00007FF709005F25+652245]\n\t(No symbol) [0x00007FF708EF8618]\n\t(No symbol) [0x00007FF708EF47C4]\n\t(No symbol) [0x00007FF708EF48BC]\n\t(No symbol) [0x00007FF708EE4C33]\n\tBaseThreadInitThunk [0x00007FFAD4E726AD+29]\n\tRtlUserThreadStart [0x00007FFAD62AAA68+40]\n"
-}
