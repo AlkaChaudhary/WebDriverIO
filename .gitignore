@@ -2,8 +2,8 @@
  allure-report/
  allure-results/
  junit-reports/
- test/specs/STAKProject.spec.js/
- test/specs/test.e2e.js/
- test/specs/test1.spec.js/
+  # test/specs/STAKProject.spec.js/
+  # test/specs/test.e2e.js/
+  # test/specs/test1.spec.js/
 
  # comment
