@@ -1,6 +1,6 @@
 class TilføjetTilKurvenPage{
     get assertTilføjetTilKurven(){
-        return $('class/modal-title')
+        return $('.modal-title')
     }
 
     get GåTilKurvenButton(){

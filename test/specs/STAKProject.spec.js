@@ -85,11 +85,11 @@ describe('Demo Tests', function () {
     const inputBy = $('[type="text"][autocomplete="shipping locality"]')
     await inputBy.setValue("Vaælensbæk")
     const buttonLeveringsdetaljer = $('.btn.cta-btn.ml-sm-auto.order-1.order-sm-2.mb-4.mb-sm-0')
-    await buttonLeveringsdetaljer.click();
+    await buttonLeveringsdetaljer.click()
 
 
     //Assert that user is present in Title Leveringsdetaljer page
-    const headerLeveringsdetaljer = $('h1=Leveringsdetaljer');
+    const headerLeveringsdetaljer = $('h1=Leveringsdetaljer')
     await expect(headerLeveringsdetaljer).toBePresent()
 
     // On Leveringsdetaljer page enter the value for LEVERING ELLER AFHENTNING and clicking on <Opsummering> button

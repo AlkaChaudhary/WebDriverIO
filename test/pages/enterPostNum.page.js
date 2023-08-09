@@ -1,6 +1,6 @@
 class EnterPostNummerPage{
     get assertPostNummer(){
-        return $('class/modal-title')
+        return $('.modal-title')
     }
 
     get PostNummerTextBox(){
