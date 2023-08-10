@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": ".//div[contains(@class, \"modal-title\") and contains(., \"Tilføjet til kurven\") and not(.//div[contains(@class, \"modal-title\")])]"
+}
